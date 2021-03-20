@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kris57
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xn--1lq68wkwb8ydd0rf1c.tk
+  * I am kris57 (https://keybase.io/kris57) on keybase.
+  * I have a public key ASCCRFtGhDDlGEu8mG66E0RWpNkzRuR1O1ipmW6oMafiRgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012082445b468430e5184bbc986eba134456a4d93346e4753b58a9996ea831a7e2460a",
+      "host": "keybase.io",
+      "kid": "012082445b468430e5184bbc986eba134456a4d93346e4753b58a9996ea831a7e2460a",
+      "uid": "54c49edd6a2a863b78c0c4fe99afab19",
+      "username": "kris57"
+    },
+    "merkle_root": {
+      "ctime": 1616216794,
+      "hash": "64210dac21a3383c10ebef879a6bdc6da351fc1778e21ba625ffa85254e0190d3ef59c5666eb021943989a6fe3f6fe1bd6df7a6c92aef622e5bdd8841091a8bb",
+      "hash_meta": "648d742b48a7a66e4a648a7f1b1406b578ed76f1e58ef584b14d199a85143a76",
+      "seqno": 19422361
+    },
+    "service": {
+      "entropy": "tCyoI3WnC1PbqJq+0Plh+oOL",
+      "hostname": "xn--1lq68wkwb8ydd0rf1c.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1616216873,
+  "expire_in": 504576000,
+  "prev": "7529cce87378a4de14d671b2c28c54eb18f08df4bc2a41fed63b73e28c104816",
+  "seqno": 212,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggkRbRoQw5RhLvJhuuhNEVqTZM0bkdTtYqZluqDGn4kYKp3BheWxvYWTES5cCzNTEIHUpzOhzeKTeFNZxssKMVOsY8I30vCpB/tY7c+KMEEgWxCBjXiaDpuNhQLcCzydxWMAjqAAKNN9ZUKYRcZXIAuaXOgIBwqNzaWfEQFH86bjKlerDtF8jnf3O8WYnZxmlSNwyCKlusUbGOxdJr1ef9V+3opyhyR+k/qUepRhszajoGk0o6HYelx3KsAuoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCA5QpvTynf3XLf/8/IKOcES54dC/QThKplJQHbjs80KDaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kris57
+
+==================================================================
